@@ -1,0 +1,14 @@
+C:\Users\ppal\source\repos\OrderManagment\OrderManagment\bin\Debug\netcoreapp3.1\OrderManagment.exe
+C:\Users\ppal\source\repos\OrderManagment\OrderManagment\bin\Debug\netcoreapp3.1\OrderManagment.deps.json
+C:\Users\ppal\source\repos\OrderManagment\OrderManagment\bin\Debug\netcoreapp3.1\OrderManagment.runtimeconfig.json
+C:\Users\ppal\source\repos\OrderManagment\OrderManagment\bin\Debug\netcoreapp3.1\OrderManagment.runtimeconfig.dev.json
+C:\Users\ppal\source\repos\OrderManagment\OrderManagment\bin\Debug\netcoreapp3.1\OrderManagment.dll
+C:\Users\ppal\source\repos\OrderManagment\OrderManagment\bin\Debug\netcoreapp3.1\OrderManagment.pdb
+C:\Users\ppal\source\repos\OrderManagment\OrderManagment\obj\Debug\netcoreapp3.1\OrderManagment.csproj.AssemblyReference.cache
+C:\Users\ppal\source\repos\OrderManagment\OrderManagment\obj\Debug\netcoreapp3.1\OrderManagment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ppal\source\repos\OrderManagment\OrderManagment\obj\Debug\netcoreapp3.1\OrderManagment.AssemblyInfoInputs.cache
+C:\Users\ppal\source\repos\OrderManagment\OrderManagment\obj\Debug\netcoreapp3.1\OrderManagment.AssemblyInfo.cs
+C:\Users\ppal\source\repos\OrderManagment\OrderManagment\obj\Debug\netcoreapp3.1\OrderManagment.csproj.CoreCompileInputs.cache
+C:\Users\ppal\source\repos\OrderManagment\OrderManagment\obj\Debug\netcoreapp3.1\OrderManagment.dll
+C:\Users\ppal\source\repos\OrderManagment\OrderManagment\obj\Debug\netcoreapp3.1\OrderManagment.pdb
+C:\Users\ppal\source\repos\OrderManagment\OrderManagment\obj\Debug\netcoreapp3.1\OrderManagment.genruntimeconfig.cache
